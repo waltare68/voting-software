@@ -1,0 +1,28 @@
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Release\WindowsApplication10.exe.config
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Release\WindowsApplication10.exe
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Release\WindowsApplication10.pdb
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Release\WindowsApplication10.xml
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.adminArea.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.adminLognArea.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.MainFrm.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.Resources.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.voterlogin.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.votingArea.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.vbproj.GenerateResource.Cache
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.exe
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.xml
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.pdb
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Release\WindowsApplication10.exe.config
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.exe
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.xml
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.pdb
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Release\WindowsApplication10.exe
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Release\WindowsApplication10.pdb
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Release\WindowsApplication10.xml
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.adminArea.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.adminLognArea.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.MainFrm.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.Resources.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.voterlogin.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.votingArea.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Release\WindowsApplication10.vbproj.GenerateResource.Cache

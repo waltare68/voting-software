@@ -1,0 +1,60 @@
+c:\users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+c:\users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+c:\users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+c:\users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+c:\users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.MainFrm.resources
+c:\users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Resources.resources
+c:\users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+c:\users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+c:\users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+c:\users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
+C:\Users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.adminLognArea.resources
+C:\Users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.adminArea.resources
+C:\Users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.voterlogin.resources
+C:\Users\mnjala\documents\visual studio 2013\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.votingArea.resources
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.adminArea.resources
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.adminLognArea.resources
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.MainFrm.resources
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Resources.resources
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.voterlogin.resources
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.votingArea.resources
+C:\Users\mnjala\Desktop\projects\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.adminArea.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.adminLognArea.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.MainFrm.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Resources.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.voterlogin.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.votingArea.resources
+C:\Users\motherfuckers chill\Desktop\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+H:\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+H:\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+H:\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+H:\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.adminArea.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.adminLognArea.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.MainFrm.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Resources.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.voterlogin.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.votingArea.resources
+F:\WALTER\Libya\VotingProject\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
